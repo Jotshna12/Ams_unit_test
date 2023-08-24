@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AmsApplication {
 
-
+//bhjhguj
 	public static void main(String[] args)
 	{
 		SpringApplication.run(AmsApplication.class, args);

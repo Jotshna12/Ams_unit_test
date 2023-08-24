@@ -13,6 +13,8 @@ public class AttendanceRequest implements Serializable {
     private int delegationId;
     private int hours;
 
+    //
+
     public int getStudentId() {
         return studentId;
     }
